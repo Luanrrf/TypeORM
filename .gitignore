@@ -1,0 +1,13 @@
+# App specific
+node_modules/
+docs/_book/
+.tmp
+.idea
+npm-debug.log
+.build/
+lib
+.eslintrc
+*.orig
+react/package-lock.json
+.lh
+apresentacao/
